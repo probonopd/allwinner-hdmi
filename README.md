@@ -1,6 +1,6 @@
-# PRIVATE-allwinner-HDMI
+# Allwinner HDMI
 
-A simple Android app that automatically switches to HDMI by launching the `com.softwinner.awlivetv/.MainActivity` activity.
+A simple Android app that automatically switches to HDMI on the Chengdu Hotack Technology Co., Ltd. [HY300 Pro+ Projector](https://gist.github.com/probonopd/3ad6b7777caea1503f00d5fe7710ad06) by launching the `com.softwinner.awlivetv/.MainActivity` activity.
 
 ## Features
 
